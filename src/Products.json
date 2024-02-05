@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Mouse",
+    "price": "LKR 500",
+    "category": "mouse",
+    "Quantity": "Available",
+    "image": "pictures/harddisk1.png"
+  },
+
+  {
+    "id": 2,
+    "name": "mechanical keyboard",
+    "price": "LKR 1000",
+    "category": "keyboard",
+    "Quantity": "Available",
+    "image": "pictures/keyboard2.png"
+  },
+
+  {
+    "id": 3,
+    "name": "Laptop RAM 8GB DDR4",
+    "price": "LKR 5000",
+    "category": "ram",
+    "Quantity": "Available",
+    "image": "pictures/ram2.png"
+  },
+
+  {
+    "id": 4,
+    "name": "Wired Headset",
+    "price": "LKR 2000",
+    "category": "headset",
+    "Quantity": "Available",
+    "image": "pictures/headset2.png"
+  },
+
+  {
+    "id": 5,
+    "name": "Intel Core i5 4th Gen Processor",
+    "price": "LKR 10000",
+    "category": "processor",
+    "Quantity": "Available",
+    "image": "pictures/processor2.png"
+  },
+
+  {
+    "id": 6,
+    "name": "Hard disk drive pc 500GB",
+    "price": "LKR 5000",
+    "category": "hard_disk",
+    "Quantity": "Available",
+    "image": "pictures/harddisk2.png"
+  },
+  {
+    "id": 7,
+    "name": "Dell Gaming Mouse",
+    "price": "LKR 1000",
+    "category": "mouse",
+    "Quantity": "Available",
+    "image": "pictures/mouse1.png"
+  },
+
+  {
+    "id": 8,
+    "name": "Computer keyboard",
+    "price": "LKR 500",
+    "category": "keyboard",
+    "Quantity": "Available",
+    "image": "pictures/keyboard1.png"
+  },
+
+  {
+    "id": 9,
+    "name": "Desktop RAM 16GB DDR4",
+    "price": "LKR 5000",
+    "category": "ram",
+    "Quantity": "Available",
+    "image": "pictures/ram1.png"
+  },
+
+  {
+    "id": 10,
+    "name": "LEVN Wired Headset",
+    "price": "LKR 2000",
+    "category": "headset",
+    "Quantity": "Available",
+    "image": "pictures/headset1.png"
+  },
+
+  {
+    "id": 11,
+    "name": "AMD Ryzen 7 Desktop Processor",
+    "price": "LKR 10000",
+    "category": "processor",
+    "Quantity": "Available",
+    "image": "pictures/processor1.png"
+  },
+
+  {
+    "id": 12,
+    "name": "Toshiba 2TB Portable External Hard Drive",
+    "price": "LKR 5000",
+    "category": "hard_disk",
+    "Quantity": "Available",
+    "image": "pictures/harddisk2.png"
+  }
+]
